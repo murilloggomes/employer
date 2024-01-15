@@ -8,7 +8,6 @@ Projeto para teste da Educoin
 #Rodando o código
 - Crie uma instancia no MYSQL.
 - Acesse a pasta ServerSide->utils e abra o arquivo db.js, configure-o de acordo com sua instancia criada MYSQL local.
-- Acesse a pasta ServerSide e rode o comando `npm install` após a finalização rode o comando `npm run dev`
-- Acesse a pasta Front-Server `npm install` após a finalização rode o comando `npm run dev`
+- Acesse a pasta ServerSide e rode o comando `npm install`.
 
-Acesse o sistema pelo link localhost disponibilizado em seu terminal após o último comando, com o usuário cadastrado no banco. 
+Acesse o sistema pelo link http://localhost:5173
